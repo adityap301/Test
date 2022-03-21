@@ -1,3 +1,4 @@
 Added from Branch1.
 Added new line.
+Added from branch1.
 Added from branch2.
